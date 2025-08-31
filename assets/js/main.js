@@ -1,7 +1,7 @@
 /*
 =======================================================
 * Template Name: Personal - v1.0.0
-* Template URL: https://github.com/GHOSTs-OCTOPUS/Portfolio-Big-data-analyst
+* Template URL: https://github.com/GHOSTs-OCTOPUS/madhurianalytics
 * Author: GHOSTs-OCTOPUS
 ========================================================
 */
