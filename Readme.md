@@ -84,6 +84,6 @@
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
-# STATUS :- INCOMPLETE..<BR>
+# STATUS :- COMPLETE..<BR>
 Credit: [kole vikas](https://github.com/GHOSTs-OCTOPUS)<BR>
-Last Edited on: 19/08/2025
+Last Edited on: 02/12/2025
